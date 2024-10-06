@@ -1,5 +1,4 @@
 asgiref==3.8.1
-astropy==6.1.4
 astropy-iers-data==0.2024.9.30.0.32.59
 certifi==2024.8.30
 cffi==1.17.1

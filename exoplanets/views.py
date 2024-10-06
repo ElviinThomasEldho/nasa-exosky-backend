@@ -1,7 +1,6 @@
 import requests
 from django.http import JsonResponse
 import math
-from astropy.coordinates import EarthLocation, AltAz, get_sun
 import pandas as pd
 
 # Existing function to get all exoplanets
